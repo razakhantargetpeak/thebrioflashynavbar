@@ -1,4 +1,4 @@
-# flashy_tab_bar
+# TheBrio Flash NavBar
 [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/Cuberto/flashy-tabbar-android/master/LICENSE)
 
 One another nice animated tabbar (Inspired by Cuberto)
